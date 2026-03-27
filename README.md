@@ -11,3 +11,9 @@ The visualization uses **Leaflet.js** to plot earthquake data in real time, prov
 * Marker **size** represents earthquake magnitude
 * Marker **color** represents earthquake **dpeth**
 * Clickable markers display popups with additional information (magnitude, location, time)
+
+## Tools & Technologies
+* HTML & CSS for webpage structure and styling
+* JavaScript for data fetching and interactivity
+* Leaflet.js for mapping and visualization
+* USGS GeoJSON Feed as the data source
